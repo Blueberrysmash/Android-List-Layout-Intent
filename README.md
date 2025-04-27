@@ -1,6 +1,6 @@
 ListView + Implicit Intent Android App
 
-Check out the project demo video here: [Project Demo Video]([https://drive.google.com/file/d/1BEWaZLoEs_XKGNuCPX0xiYE2yRGLF9zQ/view?usp=sharing])
+Check out the project demo video here: [Project Demo Video](https://drive.google.com/file/d/1BEWaZLoEs_XKGNuCPX0xiYE2yRGLF9zQ/view?usp=sharing)
 
 Description
 This Android app demonstrates the use of ListView and Implicit Intent. It allows users to select an item from a list of programming languages, and then the app performs an action using Implicit Intent to open a relevant app or action based on the selected item.
