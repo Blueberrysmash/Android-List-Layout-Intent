@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="#E3F2FD"
+    android:orientation="vertical">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Select a Website"
+    android:textSize="24sp"
+    android:textColor="#0D47A1"
+    android:layout_gravity="center"
+    android:paddingBottom="10dp"
+    android:textStyle="bold"/>
+
+<ListView
+    android:id="@+id/websiteList"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:divider="@android:color/darker_gray"
+    android:dividerHeight="1dp"
+    android:background="#FFFFFF"
+    android:padding="8dp"/>
+</LinearLayout>
+
+
